@@ -1,0 +1,25 @@
+.form-group{
+    margin-right: 4px;
+}
+
+.container1{
+    margin-top: 2rem;
+    height: 30rem;
+    display: flex;
+    flex-direction: column;
+    color:rgb(202, 255, 78);
+    background-color:rgb(147, 201, 0);
+}
+
+.footer-blurb{
+    background-color: rgb(210, 165, 30);
+}
+
+.small-print{
+    margin-top: 2rem;
+}
+
+.cont{
+    margin: 8% 9%;
+}
+
